@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+###################################
+
+keys/gemini.txt
+templates/index.html
+templates
+a.ipynb
+app2.py
+
+
+###################################
+
 # Distribution / packaging
 .Python
 build/
